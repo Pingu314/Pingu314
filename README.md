@@ -31,4 +31,4 @@ Currently studying for **CompTIA Security+**, working through **TryHackMe SOC Le
 
 ---
 
-🇨🇭 *Zürich · he/him · DE · EN · FR · open to entry-level SOC roles*
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/13px-Flag_of_Switzerland.svg.png" width="13" alt="CH"> *Zürich · he/him · DE · EN · FR · open to entry-level SOC roles*
