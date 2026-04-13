@@ -2,7 +2,7 @@
 
 I'm based in **Zürich, Switzerland** — self-taught, career-transitioning into cybersecurity with a focus on Blue Team and detection engineering.
 
-My background is a bit unusual: construction apprenticeship, , military service, self-employed in construction, two years in **fraud detection at Viseca** (24/7 alert triage, pattern recognition, anomaly detection) — turns out that's closer to SOC work than it sounds.
+My background is a bit unusual: construction apprenticeship, military service, self-employed in construction. Then two years in **fraud detection at Viseca** — 24/7 alert triage, real-time anomaly detection, escalation workflows. Essentially Tier 1 SOC work in a financial environment.
 
 Currently studying for **CompTIA Security+**, working through **TryHackMe SOC Level 1**, and learning **Splunk**. I build things to understand them.
 
