@@ -10,7 +10,7 @@ Currently studying for **CompTIA Security+**, working through **TryHackMe SOC Le
 
 ### What I'm building
 
-**[soc_threat_analyzer](https://github.com/Pingu314/soc_threat_analyzer)** — Python SOC pipeline that detects brute force, password spraying and impossible travel using SIGMA-based rules. Enriches alerts with threat intel, maps to MITRE ATT&CK sub-techniques, exports to CSV. 32 tests.
+**[soc_threat_analyzer](https://github.com/Pingu314/soc_threat_analyzer)** — Python SOC pipeline that detects brute force, password spraying and impossible travel using SIGMA-based rules. Enriches alerts with threat intel, maps to MITRE ATT&CK sub-techniques, exports to CSV. 35 tests.
 
 **[Snake](https://github.com/Pingu314/Snake)** — Started as a single-file Turtle game (v1.0, frozen). Rewrote it from scratch as an ECS architecture with a state machine, theme engine, combo system and achievements (v1.1, in progress). Mostly just for fun.
 
