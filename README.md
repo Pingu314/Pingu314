@@ -10,6 +10,8 @@ Currently studying for **CompTIA Security+**, working through **TryHackMe SOC Le
 
 ### What I'm building
 
+**[email_header_analyzer](https://github.com/Pingu314/email_header_analyzer)** - Python SOC pipeline detecting phishing and spoofing via email header analysis. SPF/DKIM/DMARC verification, routing analysis, MIME evasion detection, MITRE ATT&CK mapping. Flask dashboard, PDF/CSV/JSON export. 383 tests, 93% coverage. Python 3.9–3.14.
+
 **[phishing_url_analyzer](https://github.com/Pingu314/phishing_url_analyzer)** - Python SOC triage pipeline that detects phishing indicators in URLs, follows redirect chains, enriches with threat intel, assigns risk/confidence scores, maps to MITRE ATT&CK and exports reports. 74 tests. 
 
 **[soc_threat_analyzer](https://github.com/Pingu314/soc_threat_analyzer)** - Python SOC pipeline that detects brute force, password spraying and impossible travel using SIGMA-based rules. Enriches alerts with threat intel, maps to MITRE ATT&CK sub-techniques, exports to CSV. 35 tests.
@@ -29,7 +31,7 @@ Currently studying for **CompTIA Security+**, working through **TryHackMe SOC Le
 - 📚 CompTIA Security+ (in progress)
 - 🔵 TryHackMe SOC Level 1
 - 📊 Splunk Core Certified User (in progress)
-- 🛠️ Next project: log analysis tool or email header analyzer
+- 🛠️ Next project: bring P1 & P2 up to P3 standard, then P4 orchestrator
 
 ---
 
