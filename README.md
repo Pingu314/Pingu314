@@ -14,7 +14,7 @@ Currently studying for **CompTIA Security+** and learning **Splunk**.
 
 **[email_header_analyzer](https://github.com/Pingu314/email_header_analyzer)** - Python detection pipeline for phishing and spoofing via email header analysis. SPF/DKIM/DMARC verification, routing analysis, MIME evasion detection, MITRE ATT&CK mapping. Flask dashboard, PDF/CSV/JSON export. 383 tests, 93% coverage. Python 3.9–3.14.
 
-**[phishing_url_analyzer](https://github.com/Pingu314/phishing_url_analyzer)** - Python triage pipeline that detects phishing indicators in URLs, follows redirect chains, enriches with threat intel, assigns risk/confidence scores, maps to MITRE ATT&CK and exports reports. 118 tests, 95% coverage. Python 3.9–3.13.
+**[phishing_url_analyzer](https://github.com/Pingu314/phishing_url_analyzer)** - Python triage pipeline that detects phishing indicators in URLs, follows redirect chains, enriches with threat intel, assigns risk/confidence scores, maps to MITRE ATT&CK and exports reports. 125 tests, 95% coverage. Python 3.9–3.13.
 
 **[soc_threat_analyzer](https://github.com/Pingu314/soc_threat_analyzer)** - Python detection pipeline for brute force, password spraying and impossible travel using SIGMA-based rules. Enriches alerts with threat intel, maps to MITRE ATT&CK sub-techniques, exports to CSV. Flask dashboard, multi-file ingestion. 118 tests, 93% coverage. Python 3.10–3.13.
 
