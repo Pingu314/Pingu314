@@ -12,7 +12,7 @@ Currently studying for **CompTIA Security+** and learning **Splunk**.
 
 ### What I'm building
 
-**[email_header_analyzer](https://github.com/Pingu314/email_header_analyzer)** - Python detection pipeline for phishing and spoofing via email header analysis. SPF/DKIM/DMARC verification, routing analysis, MIME evasion detection, MITRE ATT&CK mapping. Flask dashboard, PDF/CSV/JSON export. 383 tests, 93% coverage. Python 3.9–3.14.
+**[email_header_analyzer](https://github.com/Pingu314/email_header_analyzer)** - email_header_analyzer - Python detection pipeline for phishing and spoofing via email header analysis. SPF/DKIM/DMARC verification, routing analysis, MIME evasion detection, MITRE ATT&CK mapping. Flask dashboard with verdict view, JSON/CSV/PDF export. 383 tests, 93% coverage. Python 3.9–3.14.
 
 **[phishing_url_analyzer](https://github.com/Pingu314/phishing_url_analyzer)** - Python triage pipeline that detects phishing indicators in URLs, follows redirect chains, enriches with threat intel, assigns risk/confidence scores, maps to MITRE ATT&CK and exports reports. 125 tests, 95% coverage. Python 3.9–3.13.
 
