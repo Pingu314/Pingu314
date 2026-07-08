@@ -2,7 +2,7 @@
 
 I'm based in **Zürich, Switzerland** - self-taught builder with a focus on **fraud detection and security analytics**.
 
-My background is a bit unusual: construction apprenticeship, military service, self-employed in construction. Then two years of **24/7 fraud detection at a Swiss payment services provider** - live transaction monitoring, real-time pattern recognition during coordinated card fraud attacks, and cross-team escalation. That's where I learned what detection means in practice: separating signal from noise when it counts.
+My background is a bit unusual: military service, construction apprenticeship, self-employed in construction. Then two years of **24/7 fraud detection at a Swiss payment services provider** - live transaction monitoring, real-time pattern recognition during coordinated card fraud attacks and cross-team escalation. That's where I learned what detection means in practice: separating signal from noise when it counts.
 
 I build tools to understand the craft under the hood and it's the same craft whether the target is a fraudulent transaction, a phishing URL or a brute-force attempt: spot the pattern, score the risk, triage the case.
 
